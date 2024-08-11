@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.home-section {
+    background: url('restaurant-bg.jpg') no-repeat center center/cover;
+    color: rgb(13, 0, 0);
+    padding: 100px 0;
+}
+
+.about-section,
+.menu-section,
+.contact-section {
+    padding: 60px 0;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px 0;
+}
